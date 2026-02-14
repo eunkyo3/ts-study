@@ -26,6 +26,10 @@ nickname.length();
 
 baseUrl.length();
 
+nickname.length;
+
+baseUrl.length;
+
 // 타입스크립트는 다음과 같은 순서로 오류를 표시합니다.
 // - 코드를 읽고 baseUrl이라는 변수를 이해한다.
 // - 초깃값이 "https://test.com" 이므로 baseUrl이 string 타입이라고 결론 짓는다.
